@@ -1,4 +1,4 @@
-package SaitcaseProblem;
+package SuitcaseProblem;
 
 public class StaircaseResult {
 	public static void staircase(int n) {
